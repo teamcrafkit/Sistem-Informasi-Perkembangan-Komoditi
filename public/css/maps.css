@@ -1,0 +1,49 @@
+/* .pac-card {
+  margin: 10px 10px 0 0;
+  border-radius: 2px 0 0 2px;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  outline: none;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  background-color: #fff;
+  font-family: Roboto;
+}
+
+.pac-container {
+  padding-bottom: 12px;
+  margin-right: 12px;
+  z-index: 10000 !important;
+}
+
+.pac-controls {
+  display: inline-block;
+  padding: 5px 11px;
+}
+
+.pac-controls label {
+  font-family: Roboto;
+  font-size: 13px;
+  font-weight: 300;
+} */
+
+#pac-input {
+  background-color: #fff;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  text-overflow: ellipsis;
+}
+ 
+.pac-container {
+    background-color: #FFF;
+    z-index: 1051 !important;
+    position: fixed;
+    display: inline-block;
+}
+
+/* .modal{
+    z-index: 1000;   
+}
+.modal-backdrop{
+    z-index: 500;        
+} */
